@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9C25ZWATG7.com.chernysh.EasyLang",
+        "paths": [ "/*" ]
+      },
+      {
+        "appID": "9C25ZWATG7.com.chernysh.justr",
+        "paths": [ "/*" ]
+      }
+    ]
+  }
+}
