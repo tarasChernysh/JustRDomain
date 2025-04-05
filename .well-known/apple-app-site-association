@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "9C25ZWATG7.com.chernysh.EasyLang",
-        "paths": [ "/*" ]
+        "paths": [ "/openDeck*", "/" ]
       },
       {
         "appID": "9C25ZWATG7.com.chernysh.justr",
-        "paths": [ "/*" ]
+        "paths": [ "/openDeck*", "/" ]
       }
     ]
   }
