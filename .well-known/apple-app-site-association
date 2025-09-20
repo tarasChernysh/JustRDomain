@@ -9,6 +9,12 @@
       {
         "appID": "9C25ZWATG7.com.chernysh.justr",
         "paths": [ "/openDeck*", "/" ]
+      },
+      {
+        "appID": "9C25ZWATG7.com.solbox.app",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
